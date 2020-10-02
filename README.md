@@ -56,7 +56,7 @@ mission.pause() //pause this mission ,and it will automatically resume when you 
 ```
 ###Notice
 
-This library is still under construction and I need your help. if you get some bugs,please feel free to issue or [Email me](mailto:daimajia@gmail.com).
+This library is still under construction and I need your help. If you get some bugs,please feel free to issue or [Email me](mailto:daimajia@gmail.com).
 
 ###Licence
 
@@ -64,7 +64,7 @@ MIT
 
 ###About me
 
-I am a common senior student in China 22 years old. Good at Php,Java,Android,NodeJS. I just want to make a good app. If there is any intern opportunity and you think I'm suitable, welcome to email me:  [Email Me](mailto:smallbeardict@163.com)
+I am a common senior student in China 22 years old. I'm proficient in Php,Java,Android,NodeJS and wanted to make some good apps. If there is any intern opportunity and you think I'm suitable, welcome to email me:  [Email Me](mailto:smallbeardict@163.com)
 
 *	Northwest Universite of China
 *	Beijing Normal Universy
